@@ -17,3 +17,8 @@ out/
 !**/src/test/**/out/
 
 ./idea/
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
