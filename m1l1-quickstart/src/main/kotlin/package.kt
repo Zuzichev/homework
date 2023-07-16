@@ -1,1 +1,1 @@
-package ru.otus.otuskotlin.marketplace.m1l1
+package ru.otus.otuskotlin.productproperty.m1l1
