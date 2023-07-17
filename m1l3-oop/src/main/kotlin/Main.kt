@@ -12,4 +12,7 @@ class MyClass{
     companion object MyStatic {
         const val myAnyNumber: Double = 0.0
     }
+
+    var a: String = "aaaaa" // если декомпилить, то будут геттер+сеттер. У val только геттер
+
 }
