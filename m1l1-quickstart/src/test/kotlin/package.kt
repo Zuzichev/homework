@@ -1,1 +1,0 @@
-package ru.otus.otuskotlin.productproperty.m1l1
